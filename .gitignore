@@ -1,0 +1,8 @@
+.DS_Store
+json/new_catalog.json
+json/old_catalog.json
+backup
+.idea/
+venv
+catalog.csv
+new_catalog.csv

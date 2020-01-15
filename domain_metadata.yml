@@ -1,0 +1,21 @@
+CORE_FIELDS:
+  - id 
+  - name
+  - category
+  - description
+
+CUSTOM_FIELDS: 
+  - Data Governance__System of Record
+  - Data Governance__Update Frequency
+  - Data Governance__Department
+  - Data Governance__Team
+  - Data Governance__Data Owner
+  - Data Governance__Data Steward
+  - Data Governance__Vetted by Data Owner
+
+DOMAIN_CATEGORIES:
+  - Business Development
+  - Customer Services
+  - Internal Operations
+  - Platform Usage
+  - Product Development
